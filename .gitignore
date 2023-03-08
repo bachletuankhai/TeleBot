@@ -1,0 +1,4 @@
+# ignore environment keys
+.env
+# ignore packages
+testopenai_env/
