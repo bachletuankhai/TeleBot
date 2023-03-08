@@ -2,3 +2,5 @@
 .env
 # ignore packages
 testopenai_env/
+# ignore draft files
+*test.py
